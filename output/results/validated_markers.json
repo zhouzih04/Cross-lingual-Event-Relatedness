@@ -1,0 +1,268 @@
+{
+  "english": {
+    "statement_verbs": [
+      {
+        "marker": "claims",
+        "peak_class": "SAME_DAY",
+        "peak_frequency": 0.03243574051407589,
+        "p_value": 3.0433402529763507e-21,
+        "cramers_v": 0.07214199323110558
+      }
+    ],
+    "process_verbs": [
+      {
+        "marker": "probe",
+        "peak_class": "IMMEDIATE_UPDATE",
+        "peak_frequency": 0.007860752386299831,
+        "p_value": 7.137018112215653e-21,
+        "cramers_v": 0.07152701555957541
+      },
+      {
+        "marker": "investigating",
+        "peak_class": "LONG_TERM_DEV",
+        "peak_frequency": 0.009861932938856016,
+        "p_value": 9.149608380811917e-21,
+        "cramers_v": 0.07134674258180038
+      }
+    ],
+    "time_references": [
+      {
+        "marker": "ago",
+        "peak_class": "IMMEDIATE_UPDATE",
+        "peak_frequency": 0.004772599663110612,
+        "p_value": 1.1413325218392932e-14,
+        "cramers_v": 0.06024834347247148
+      },
+      {
+        "marker": "later",
+        "peak_class": "LONG_TERM_DEV",
+        "peak_frequency": 0.005698005698005698,
+        "p_value": 7.447162576159896e-12,
+        "cramers_v": 0.054319588169235544
+      }
+    ],
+    "update_indicators": [
+      {
+        "marker": "update",
+        "peak_class": "LONG_TERM_DEV",
+        "peak_frequency": 0.010300241069471838,
+        "p_value": 2.436102672252563e-13,
+        "cramers_v": 0.05752903485830594
+      },
+      {
+        "marker": "again",
+        "peak_class": "DISTANT_RELATED",
+        "peak_frequency": 0.01580481816786865,
+        "p_value": 9.221199034293107e-13,
+        "cramers_v": 0.056302993896565276
+      },
+      {
+        "marker": "more",
+        "peak_class": "SHORT_TERM_DEV",
+        "peak_frequency": 0.031194820482636845,
+        "p_value": 1.5071122376675007e-11,
+        "cramers_v": 0.053632585957575765
+      },
+      {
+        "marker": "now",
+        "peak_class": "LONG_TERM_DEV",
+        "peak_frequency": 0.015340784571553802,
+        "p_value": 2.69395631453283e-11,
+        "cramers_v": 0.05305941139480111
+      }
+    ],
+    "backward_references": [
+      {
+        "marker": "after",
+        "peak_class": "IMMEDIATE_UPDATE",
+        "peak_frequency": 0.09376754632229085,
+        "p_value": 9.003277663952625e-11,
+        "cramers_v": 0.05184700485455417
+      }
+    ]
+  },
+  "chinese": {
+    "backward_references": [
+      {
+        "marker": "因",
+        "peak_class": "IMMEDIATE_UPDATE",
+        "peak_frequency": 0.06977262594739189,
+        "p_value": 1.9640727866117642e-63,
+        "cramers_v": 0.12132023630210131
+      },
+      {
+        "marker": "后",
+        "peak_class": "DISTANT_RELATED",
+        "peak_frequency": 0.12958399768082332,
+        "p_value": 1.886194616253941e-46,
+        "cramers_v": 0.10409753353423723
+      },
+      {
+        "marker": "因为",
+        "peak_class": "IMMEDIATE_UPDATE",
+        "peak_frequency": 0.0057958091841284,
+        "p_value": 2.8528118051928792e-15,
+        "cramers_v": 0.06048220295630686
+      },
+      {
+        "marker": "回应",
+        "peak_class": "IMMEDIATE_UPDATE",
+        "peak_frequency": 0.10343290236290682,
+        "p_value": 5.006335902714666e-15,
+        "cramers_v": 0.06000989028424196
+      },
+      {
+        "marker": "已被",
+        "peak_class": "SAME_DAY",
+        "peak_frequency": 0.01215611004478567,
+        "p_value": 2.7304590644042396e-12,
+        "cramers_v": 0.05442133888583971
+      }
+    ],
+    "update_indicators": [
+      {
+        "marker": "再",
+        "peak_class": "DISTANT_RELATED",
+        "peak_frequency": 0.0700101463980287,
+        "p_value": 2.1153435606462347e-42,
+        "cramers_v": 0.09954341623144843
+      },
+      {
+        "marker": "仍",
+        "peak_class": "SHORT_TERM_DEV",
+        "peak_frequency": 0.028839471855455177,
+        "p_value": 6.0310203598104775e-18,
+        "cramers_v": 0.06542148446473608
+      },
+      {
+        "marker": "更新",
+        "peak_class": "SHORT_TERM_DEV",
+        "peak_frequency": 0.010771369006254344,
+        "p_value": 1.3400929289362125e-14,
+        "cramers_v": 0.05917342090348003
+      },
+      {
+        "marker": "又",
+        "peak_class": "DISTANT_RELATED",
+        "peak_frequency": 0.021452384403536744,
+        "p_value": 4.431462455303348e-14,
+        "cramers_v": 0.05814029673014335
+      },
+      {
+        "marker": "再次",
+        "peak_class": "DISTANT_RELATED",
+        "peak_frequency": 0.00898680968256269,
+        "p_value": 1.0658207096356022e-12,
+        "cramers_v": 0.05529370528234368
+      }
+    ],
+    "time_references": [
+      {
+        "marker": "日",
+        "peak_class": "DISTANT_RELATED",
+        "peak_frequency": 0.07711262501811857,
+        "p_value": 2.772450265907234e-38,
+        "cramers_v": 0.09468423605163552
+      },
+      {
+        "marker": "月",
+        "peak_class": "DISTANT_RELATED",
+        "peak_frequency": 0.05566024061458182,
+        "p_value": 4.039083409208582e-27,
+        "cramers_v": 0.07999979789032458
+      },
+      {
+        "marker": "今天",
+        "peak_class": "LONG_TERM_DEV",
+        "peak_frequency": 0.017513736263736264,
+        "p_value": 2.468876641530032e-25,
+        "cramers_v": 0.07738428368082766
+      },
+      {
+        "marker": "今晚",
+        "peak_class": "DISTANT_RELATED",
+        "peak_frequency": 0.006377735903754168,
+        "p_value": 5.010036210336209e-14,
+        "cramers_v": 0.058033194895384756
+      },
+      {
+        "marker": "明天",
+        "peak_class": "LONG_TERM_DEV",
+        "peak_frequency": 0.006524725274725275,
+        "p_value": 1.7334845855065403e-11,
+        "cramers_v": 0.05266250718105482
+      }
+    ],
+    "process_verbs": [
+      {
+        "marker": "检查",
+        "peak_class": "SAME_DAY",
+        "peak_frequency": 0.015355086372360844,
+        "p_value": 1.6205102086352532e-32,
+        "cramers_v": 0.08741502473205662
+      },
+      {
+        "marker": "调查",
+        "peak_class": "IMMEDIATE_UPDATE",
+        "peak_frequency": 0.02920196165849309,
+        "p_value": 5.4407996044653e-22,
+        "cramers_v": 0.07222598249826964
+      }
+    ],
+    "breaking_news": [
+      {
+        "marker": "突发",
+        "peak_class": "SAME_DAY",
+        "peak_frequency": 0.022392834293026232,
+        "p_value": 5.95087351148659e-28,
+        "cramers_v": 0.08118803068664546
+      },
+      {
+        "marker": "爆",
+        "peak_class": "IMMEDIATE_UPDATE",
+        "peak_frequency": 0.03588943379402586,
+        "p_value": 6.862680119940615e-18,
+        "cramers_v": 0.06532189977344817
+      },
+      {
+        "marker": "独家",
+        "peak_class": "SAME_DAY",
+        "peak_frequency": 0.015355086372360844,
+        "p_value": 3.0528879362308794e-11,
+        "cramers_v": 0.052111244566309556
+      }
+    ],
+    "completion_markers": [
+      {
+        "marker": "收官",
+        "peak_class": "DISTANT_RELATED",
+        "peak_frequency": 0.007537324249891289,
+        "p_value": 7.295696598569322e-14,
+        "cramers_v": 0.057703860492441014
+      },
+      {
+        "marker": "结束",
+        "peak_class": "IMMEDIATE_UPDATE",
+        "peak_frequency": 0.011145786892554615,
+        "p_value": 7.54905996666042e-13,
+        "cramers_v": 0.055609907781620206
+      },
+      {
+        "marker": "通过",
+        "peak_class": "LONG_TERM_DEV",
+        "peak_frequency": 0.008928571428571428,
+        "p_value": 8.368492177158779e-12,
+        "cramers_v": 0.053362903402882446
+      }
+    ],
+    "statement_verbs": [
+      {
+        "marker": "说",
+        "peak_class": "IMMEDIATE_UPDATE",
+        "peak_frequency": 0.027864467231386535,
+        "p_value": 1.6946956933276454e-10,
+        "cramers_v": 0.05040228874295937
+      }
+    ]
+  }
+}
